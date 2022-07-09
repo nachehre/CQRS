@@ -1,0 +1,6 @@
+C:\Users\zchehreQani\Desktop\vs2022\CQRS-1\CQRS-1\obj\Debug\CQRS-1.csprojAssemblyReference.cache
+C:\Users\zchehreQani\Desktop\vs2022\CQRS-1\CQRS-1\bin\Debug\CQRS-1.exe.config
+C:\Users\zchehreQani\Desktop\vs2022\CQRS-1\CQRS-1\bin\Debug\CQRS-1.exe
+C:\Users\zchehreQani\Desktop\vs2022\CQRS-1\CQRS-1\bin\Debug\CQRS-1.pdb
+C:\Users\zchehreQani\Desktop\vs2022\CQRS-1\CQRS-1\obj\Debug\CQRS-1.exe
+C:\Users\zchehreQani\Desktop\vs2022\CQRS-1\CQRS-1\obj\Debug\CQRS-1.pdb
